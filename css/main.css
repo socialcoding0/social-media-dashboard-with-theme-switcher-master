@@ -85,11 +85,11 @@ body {
     top: 0;
     z-index: -1; }
   body main {
-    width: 80%;
-    min-width: 1228px;
+    width: 70%;
+    min-width: 1064px;
     min-height: 100vh;
     margin: auto;
-    padding: 1.5rem 0rem 0rem 0rem;
+    padding: 2.5rem 0rem 0rem 0rem;
     display: flex;
     flex-direction: column;
     gap: 2.5rem; }
@@ -137,7 +137,7 @@ body {
         align-items: center;
         gap: 1rem;
         padding: 1.5rem 0rem;
-        width: 23.5%;
+        width: 23.3%;
         min-width: 200px;
         cursor: pointer;
         border-radius: 5px;
@@ -173,7 +173,7 @@ body {
       body main #overview-containers .down .overview-container-footer .percent-container span {
         color: #dc414c; }
       body main #overview-containers .overview-container {
-        width: 23.5%;
+        width: 23.3%;
         min-width: 200px;
         cursor: pointer;
         border-radius: 5px;
