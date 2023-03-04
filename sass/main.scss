@@ -169,7 +169,7 @@ body {
     padding: 1.5rem 0rem 0rem 0rem;
     display: flex;
     flex-direction: column;
-    gap: 1.8rem;
+    gap: 2.5rem;
     header {
       display: flex;
       align-items: center;
@@ -368,7 +368,7 @@ body {
   }
 }
 
-@media screen and (max-width: 424px) {
+@media screen and (max-width: 450px) {
   html {
     font-size: 12px;
   }
@@ -379,7 +379,7 @@ body {
 
   body main {
     width: 100%;
-    min-width: 300px;
+    min-width: 290px;
     max-width: 418px;
 
     align-items: center;

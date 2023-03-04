@@ -92,7 +92,7 @@ body {
     padding: 1.5rem 0rem 0rem 0rem;
     display: flex;
     flex-direction: column;
-    gap: 1.8rem; }
+    gap: 2.5rem; }
     body main header {
       display: flex;
       align-items: center;
@@ -219,14 +219,14 @@ body {
     body main #overview-containers .overview-container {
       max-width: 200px; } }
 
-@media screen and (max-width: 424px) {
+@media screen and (max-width: 450px) {
   html {
     font-size: 12px; }
   h1 {
     font-size: 1.5rem; }
   body main {
     width: 100%;
-    min-width: 300px;
+    min-width: 290px;
     max-width: 418px;
     align-items: center; }
     body main header {
